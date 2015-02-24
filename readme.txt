@@ -23,7 +23,7 @@ With this plugin you can now use the following options in addition to the defaul
 $defaults = array(
 	'theme_location'  => 'main_menu',
 	'level'  => 2,
-	'cihld_of'  => 'About Us',
+	'child_of'  => 'About Us',
 );
 
 wp_nav_menu( $defaults );
