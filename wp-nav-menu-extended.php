@@ -2,7 +2,7 @@
 /*
 Plugin Name: wp_nav_menu Extended!
 Description: Adds missing functionality to the native wp_nav_menu() function.
-Version: 1.0.0
+Version: 1.0.2
 Author: Junaid Bhura
 Author URI: http://www.junaidbhura.com
 Text Domain: jb-nav-menu
